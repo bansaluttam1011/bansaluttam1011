@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Uttam Bansal
+<div align="center">
+
+# 👋 Hi, I'm Uttam Bansal  
 ### 🚀 Final Year CSE Student | Aspiring Software Developer | ML & Web Dev Enthusiast
+
+</div>
 
 - 🌱 I’m currently learning: System Design, Microservices Architecture, and MLOps  
 - 💼 Open to Work: Actively seeking SDE or Data Science roles (Internship/Full-time)
