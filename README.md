@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Uttam Bansal
 ### 🚀 Final Year CSE Student | Aspiring Software Developer | ML & Web Dev Enthusiast
 
-- 🔭 I’m currently working on: [Real Estate Rental Website](link)
-- 🌱 I’m currently learning: Node.js, MongoDB, and System Design
+- 🌱 I’m currently learning: System Design, Microservices Architecture, and MLOps  
 - 💼 Open to Work: Actively seeking SDE or Data Science roles (Internship/Full-time)
 - 📫 How to reach me: [bansaluttam36@gmail.com] 
 - ⚡ Fun fact: I love trekking and organizing events!
