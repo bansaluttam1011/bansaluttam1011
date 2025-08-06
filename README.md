@@ -33,9 +33,9 @@
 ---
 
 ### 🧠 DSA & CP Profiles
-- 🔗 [LeetCode](https://leetcode.com/uttambansal/)
+- 🔗 [LeetCode](https://leetcode.com/u/bansaluttam36/)
 - 🏆 [Codeforces](https://codeforces.com/profile/uttambansal)
-- 📘 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/uttambansal)
+- 📘 [GeeksforGeeks]((https://www.geeksforgeeks.org/user/bansaluttam36/))
 
 ---
 
