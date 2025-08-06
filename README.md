@@ -34,8 +34,8 @@
 
 ### 🧠 DSA & CP Profiles
 - 🔗 [LeetCode](https://leetcode.com/u/bansaluttam36/)
-- 🏆 [Codeforces](https://codeforces.com/profile/uttambansal)
-- 📘 [GeeksforGeeks]((https://www.geeksforgeeks.org/user/bansaluttam36/))
+- 🏆 [Codeforces](https://codeforces.com/profile/bansaluttam36)
+- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/bansaluttam36/)
 
 ---
 
