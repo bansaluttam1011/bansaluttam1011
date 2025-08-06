@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: [Real Estate Rental Website](link)
 - 🌱 I’m currently learning: Node.js, MongoDB, and System Design
 - 💼 Past Internship: Data Scientist Intern at Shadow Fox
-- 📫 How to reach me: [LinkedIn]([www.linkedin.com/in/uttam-bansal]) 
+- 📫 How to reach me: [LinkedIn][www.linkedin.com/in/uttam-bansal] 
 - ⚡ Fun fact: I love trekking and organizing events!
 
 ---
