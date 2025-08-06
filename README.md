@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on: [Real Estate Rental Website](link)
 - 🌱 I’m currently learning: Node.js, MongoDB, and System Design
-- 💼 Past Internship: Data Scientist Intern at Shadow Fox
+- 💼 Open to Work: Actively seeking SDE or Data Science roles (Internship/Full-time)
 - 📫 How to reach me: [bansaluttam36@gmail.com] 
 - ⚡ Fun fact: I love trekking and organizing events!
 
 ---
 
 ### 🛠️ Technologies & Tools:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
@@ -20,9 +20,11 @@
 ---
 
 ### 🚀 Featured Projects
-- 🎯 [Real Estate Listing Website](https://github.com/uttambansal/real-estate-app) – Full-stack site with user auth and search
-- 📊 [Customer Segmentation (ML)](https://github.com/uttambansal/customer-segmentation) – Clustering retail data with Python
-- 🤖 [AI Assistant](https://github.com/uttambansal/ai-assistant) – CLI tool using NLP and Python
+- 📈 [GeM Consultors](https://github.com/uttambansal/gem-consultors) – Full-stack portal for consultancy services with auth and MySQL backend
+- 🏠 [Estate Hub](https://github.com/uttambansal/real-estate-app) – Real Estate rental web app with search, filter & user authentication
+- 🧑‍⚖️ [Bail Predictor](https://github.com/uttambansal/bail-predictor) – ML model predicting bail outcome based on legal datasets
+- 📊 [Customer Segmentation (ML)](https://github.com/uttambansal/customer-segmentation) – Clustering retail data to analyze customer behavior
+- 🤖 [AI Assistant](https://github.com/uttambansal/ai-assistant) – Python-based CLI assistant using NLP techniques
 
 ---
 
