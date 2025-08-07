@@ -32,8 +32,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttambansal&show_icons=true&theme=github_dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=uttambansal&theme=github_dark)
+![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bansaluttam1011&show_icons=true&theme=github_dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bansaluttam1011&theme=github_dark)
 
 ---
 
