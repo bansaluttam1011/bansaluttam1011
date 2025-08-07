@@ -24,7 +24,7 @@
 
 ### 🚀 Featured Projects
 - 📈 [GeM Consultors](https://gemconsulters.in/) – Full-stack portal for consultancy services with auth and MySQL backend
-- 🏠 [Estate Hub](https://github.com/uttambansal/real-estate-app) – Real Estate rental web app with search, filter & user authentication
+- 🏠 [Estate Hub](https://uttamville.netlify.app/) – Real Estate rental web app with search, filter & user authentication
 - 🧑‍⚖️ [Bail Predictor](https://github.com/uttambansal/bail-predictor) – ML model predicting bail outcome based on legal datasets
 - 📊 [Customer Segmentation (ML)](https://github.com/uttambansal/customer-segmentation) – Clustering retail data to analyze customer behavior
 - 🤖 [AI Assistant](https://github.com/uttambansal/ai-assistant) – Python-based CLI assistant using NLP techniques
